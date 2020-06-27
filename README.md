@@ -89,7 +89,7 @@
 
 **堆積**  :  堆 heap
 
-**識別符號**  :  標識符 identifier
+**識別碼/符**  :  標識符 identifier
 
 **實作**  :  實現implement
 
@@ -125,7 +125,7 @@
 
 **溢位**  :  溢出overflow
 
-**多載**  :  重載overload
+**過載**  :  重載overload
 
 **覆寫**  :  重寫override
 
@@ -175,19 +175,19 @@
 
 **遞迴**  :  遞歸recursion
 
-**界面**  :  接口 interface
+**介面**  :  接口 interface
+<!---多用介，少見界--->
 
 **導覽列**  :  導航條 navigation bar
 
 **軟體**  :  軟件 software
 
-**解除安裝**  :  卸載 uninstall
-
 **程式**  :  程序 program
 
 **字元**  :  字符 character
 
-**資料總管**  :  資源管理器 Explore
+**工作管理員**  :  資源管理器 Explore
+<!---來自微軟命名--->
 
 **檔案**  :  文件
 
@@ -200,6 +200,9 @@
 **互動**  :  交互 interact
 
 **螢幕**  :  顯示器 monitor
+
+**觸控**  :  觸碰 touch
+<!---這應該兩岸都有混用--->
 
 **滑鼠**  :  鼠標
 
@@ -219,9 +222,11 @@
 
 **伺服器**  :  服務器 server
 
-**聲霸卡**  :  聲卡 sound card
-
+**音效卡**  :  聲卡 sound card
+<!---聲霸卡指的是Creative公司出品的SoundBlaster，音效卡較常見--->
 **顯示卡**  :  顯卡 display card
 
 **區域網路**  :  局域網 local area network (LAN)
 
+**網際網路** : 互聯網 Internet
+<!---網際網路相較於上一條Intranet而生，台灣之前不用互聯網。--->
