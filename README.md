@@ -125,7 +125,7 @@
 
 **溢位**  :  溢出overflow
 
- ****  :  重載overload
+**多載**  :  重載overload
 
 **覆寫**  :  重寫override
 
