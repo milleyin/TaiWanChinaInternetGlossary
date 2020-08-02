@@ -279,3 +279,4 @@
 
 **搜尋**：搜索 search
 
+**亂數**：隨機數 random number
