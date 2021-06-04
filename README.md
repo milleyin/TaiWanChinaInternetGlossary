@@ -280,3 +280,5 @@
 **搜尋**：搜索 search
 
 **亂數**：隨機數 random number
+
+**擷取**：捕获 capture
